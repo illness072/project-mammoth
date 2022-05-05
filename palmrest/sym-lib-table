@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "mammoth")(type "Legacy")(uri "${KIPRJMOD}/../mammoth.pretty/mammoth.lib")(options "")(descr ""))
+)
