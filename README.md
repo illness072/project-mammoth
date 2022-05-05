@@ -12,7 +12,7 @@ This project is still in its infancy and is only about 20% of the way to the fin
 ### Rough Milestones
 
 1. [x] Works as USB HID with Pro Micro or as BLE HID with ISP1807micro and CR2032 battery.
-1. [ ] Operation as a left and right independent BLE device. The board might be modified to use Seeduino XIAO BLE and the batteries might be modified to use NiMH rechargeable batteries.
+1. [ ] Operation as a left and right independent BLE device. The board might be modified to use Seeed XIAO BLE and the batteries might be modified to use NiMH rechargeable batteries.
 1. [ ] Support for 34mm trackball.
 1. (Still a secret.)
 
