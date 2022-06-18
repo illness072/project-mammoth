@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name "mammoth")(type "Legacy")(uri "${KIPRJMOD}/../mammoth.pretty/mammoth.lib")(options "")(descr ""))
+  (lib (name "mammoth")(type "KiCad")(uri "/Users/illness072/src/mammoth/mammoth.pretty/mammoth.kicad_sym")(options "")(descr ""))
 )
