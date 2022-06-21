@@ -5,7 +5,7 @@
 This keyboard was developed as a successor to the elephant42 and was originally planned to be released as mammoth42. However, during the development process, custom keyboards by other authors, Mammoth75 and Mammoth20, were released, and it seemed somewhat awkward to re-release the keyboard under the same name.
 However, we could not give up our desire to use 🦣 as a companion to 🐘, so we decided to give it this name, taking care not to infringe on their names as much as possible.
 
-## Still a WIP
+## Still WIP, or Forever WIP?
 
 This project is still in its infancy and is only about 20% of the way to the final product I have in mind. There are still a lot of unresolved bugs and issues, but even at this point, I think the keyboard is fun enough to use. Let's enjoy "being unfinished" together.
 
@@ -18,9 +18,9 @@ This project is still in its infancy and is only about 20% of the way to the fin
 
     :
 
-### Don't manufacture it yet!
+### Do not manufacture yet unless you must!
 
-The design is currently designed to use four MCP23017-E/SS. This I/O expander has long since been depleted from the market and is currently priced at two or three times its normal price. We are in the process of redesigning the product to use a different I/O expander as the lead time is likely to take a while.
+The design is currently designed to use two MCP23017-E/SS. This I/O expander has long since been depleted from the market and is currently priced at two or three times its normal price.
 To protect your wallet, it would be wise not to use the current design.
 
 ## Where's the firmware?
