@@ -23,6 +23,14 @@ This project is still in its infancy and is only about 20% of the way to the fin
 The design is currently designed to use two MCP23017-E/SS. This I/O expander has long since been depleted from the market and is currently priced at two or three times its normal price.
 To protect your wallet, it would be wise not to use the current design.
 
+####  ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️ Known Issues ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+* Diode footprint is so small that 1N4148W just barely does not fit.
+* HT7733A is poorly positioned and gets in the way of cable routing
+* 3D model of palm rest needs to be updated before lid can be tightened
+* The logo icon is still the same as elephant42, and it should be redesigned.
+* ↑ Should these be managed as Issues, right? I need to get used to Github.
+
 ## Where's the firmware?
 
 Not yet. It would be boring to use an existing keyboard firmware framework, so I would like to write one from scratch in Rust.
