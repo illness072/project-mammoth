@@ -795,7 +795,7 @@
   (pad "12" smd oval (at 17.49768 -13.03782) (size 3.74828 1.99898) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3afc2d5b-fdb6-4311-8d4c-84a9b65cc654))
   (pad "13" smd oval (at 17.49768 -15.57782) (size 3.74828 1.99898) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0fc09616-9d77-447e-bd65-c1a81796fa9f))
   (pad "14" smd oval (at 17.49768 -18.11782) (size 3.74828 1.99898) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f89a393e-4976-430f-8411-f0af5d15a8e1))
-  (model "/Users/illness072/src/mammoth/mammoth.3dshapes/Seeeduino Xiao.step"
+  (model "${KIPRJMOD}/../mammoth.3dshapes/Seeeduino Xiao.step"
     (offset (xyz 5.9 49.09 7.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

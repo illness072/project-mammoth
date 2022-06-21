@@ -259,7 +259,7 @@
       (net 5 "Net-(BT1-Pad1)") (pinfunction "+") (pintype "power_out") (tstamp 6bdd8da0-6c57-4f64-8989-0e83d2299bff))
     (pad "2" thru_hole rect (at 0 0 345) (size 2.8 2.8) (drill 1.5) (layers *.Cu *.Mask)
       (net 3 "GND") (pinfunction "-") (pintype "power_in") (tstamp b59d78d7-e90a-4bfd-aace-2e1a67ae3f8a))
-    (model "/Users/illness072/src/mammoth/mammoth.3dshapes/bat_aaa v1.step"
+    (model "${KIPRJMOD}/../mammoth.3dshapes/bat_aaa v1.step"
       (offset (xyz -2.6 6.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -942,7 +942,7 @@
       (net 5 "Net-(BT1-Pad1)") (pinfunction "B") (pintype "passive") (tstamp 3931aa63-463b-4b38-9ee9-a807be4782dd))
     (pad "3" thru_hole circle (at 2.5 0) (size 1.524 1.524) (drill 0.8) (layers *.Cu *.Mask)
       (net 18 "unconnected-(SW1-Pad3)") (pinfunction "C") (pintype "passive+no_connect") (tstamp 73854937-927d-4374-8312-b886428763f7))
-    (model "/Users/illness072/src/mammoth/mammoth.3dshapes/slidse-switch.step"
+    (model "${KIPRJMOD}/../mammoth.3dshapes/slidse-switch.step"
       (offset (xyz -4.25 1.85 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1763,7 +1763,7 @@
       (net 3 "GND") (pinfunction "GND") (pintype "power_in") (tstamp 552ce943-912e-4bb7-8486-91adb36b39b4))
     (pad "14" smd oval (at 17.49768 -18.11782 180) (size 3.74828 1.99898) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "VCC") (pinfunction "5V") (pintype "power_out") (tstamp a495921a-f13e-4a06-961b-91557054d494))
-    (model "/Users/illness072/src/mammoth/mammoth.3dshapes/Seeeduino Xiao.step"
+    (model "${KIPRJMOD}/../mammoth.3dshapes/Seeeduino Xiao.step"
       (offset (xyz 5.9 49.09 7.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
@@ -2098,7 +2098,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
-    (model "/Users/illness072/src/mammoth/mammoth.3dshapes/ht7733a.step"
+    (model "${KIPRJMOD}/../mammoth.3dshapes/ht7733a.step"
       (offset (xyz 2.5 0 -6.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -3175,7 +3175,7 @@
       (net 3 "GND") (pinfunction "GND") (pintype "power_in") (tstamp 81ca8ec1-1e87-44b4-a74c-6e490c15402c))
     (pad "14" smd oval (at 17.49768 18.11782) (size 3.74828 1.99898) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "VCC") (pinfunction "5V") (pintype "power_out") (tstamp b447e9ec-4bec-4553-b686-0324812e0c57))
-    (model "/Users/illness072/src/mammoth/mammoth.3dshapes/Seeeduino Xiao.step"
+    (model "${KIPRJMOD}/../mammoth.3dshapes/Seeeduino Xiao.step"
       (offset (xyz 5.9 49.09 7.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))

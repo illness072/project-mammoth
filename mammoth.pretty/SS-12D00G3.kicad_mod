@@ -13,7 +13,7 @@
   (pad "1" thru_hole circle (at -2.5 0) (size 1.524 1.524) (drill 0.8) (layers *.Cu *.Mask) (tstamp ccf66397-152b-4eb8-bad0-74a728558066))
   (pad "2" thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.8) (layers *.Cu *.Mask) (tstamp 3f8cbbd8-cfb0-46c5-8e34-576610ae274f))
   (pad "3" thru_hole circle (at 2.5 0) (size 1.524 1.524) (drill 0.8) (layers *.Cu *.Mask) (tstamp 598c3ffc-eafe-4976-bcee-eba75453f429))
-  (model "/Users/illness072/src/mammoth/mammoth.3dshapes/slidse-switch.step"
+  (model "${KIPRJMOD}/../mammoth.3dshapes/slidse-switch.step"
     (offset (xyz -4.25 1.85 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

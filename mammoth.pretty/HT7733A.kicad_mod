@@ -28,7 +28,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
   )
-  (model "/Users/illness072/src/mammoth/mammoth.3dshapes/ht7733a.step"
+  (model "${KIPRJMOD}/../mammoth.3dshapes/ht7733a.step"
     (offset (xyz 2.5 0 -6.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
