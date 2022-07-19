@@ -25,8 +25,8 @@
   (fp_line (start 3 1.00076) (end 3 -1.00076) (layer "F.SilkS") (width 0.15) (tstamp aed1a3e4-8fb6-417e-98e3-9760409b1e0d))
   (fp_line (start 3 -1.00076) (end -3 -1.00076) (layer "F.SilkS") (width 0.15) (tstamp c721e087-f982-408b-84af-36e58269cec8))
   (fp_line (start -3 -1.00076) (end -3 1.00076) (layer "F.SilkS") (width 0.15) (tstamp f7b19f1c-fe9f-4aa6-9cc3-c94b8fefde6b))
-  (pad "1" thru_hole circle (at -5.08 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask "F.SilkS") (tstamp 2524b2b9-3d7f-456c-9981-497866f82452))
-  (pad "2" thru_hole circle (at 5.08 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask "F.SilkS") (tstamp ac703b3d-00da-4298-a344-381a652b903f))
+  (pad "1" thru_hole circle (at -5.08 0) (size 1.6 1.6) (drill 0.75) (layers *.Cu *.Mask "F.SilkS") (tstamp 2524b2b9-3d7f-456c-9981-497866f82452))
+  (pad "2" thru_hole circle (at 5.08 0) (size 1.6 1.6) (drill 0.75) (layers *.Cu *.Mask "F.SilkS") (tstamp ac703b3d-00da-4298-a344-381a652b903f))
   (model "${KICAD6_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.step"
     (offset (xyz -5 0 0))
     (scale (xyz 1 1 1))
