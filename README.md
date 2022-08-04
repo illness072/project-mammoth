@@ -1,9 +1,11 @@
 # Project 🦣
 
-![](mammoth.jpg)
+![](photo/mammoth.jpg)
 
 This keyboard was developed as a successor to the elephant42 and was originally planned to be released as mammoth42. However, during the development process, custom keyboards by other authors, Mammoth75 and Mammoth20, were released, and it seemed somewhat awkward to re-release the keyboard under the same name.
 However, we could not give up our desire to use 🦣 as a companion to 🐘, so we decided to give it this name, taking care not to infringe on their names as much as possible.
+
+<img src="mammoth.png" width="300px"/>
 
 # Still WIP, or Forever WIP?
 
@@ -18,15 +20,13 @@ This project is still in its infancy and is only about 20% of the way to the fin
 
     :
 
-## Do not manufacture yet unless you must!
+## To be confirmed before manufacturing
 
-Currently, the design uses as many as four MCP23017-E/SS, two on each side. This I/O expander has long since been depleted from the market and is currently priced at two or three times its normal price.
-To protect your wallet, it would be wise not to use the current design.
-
+The design currently uses two MCP23017-E/SS. These I/O expanders have long since been depleted from the market due to the recent semiconductor shortage and are currently priced at two to three times the normal price. To protect your wallet, it would be wise to wait for the stock to come back.
 
 ## Where's the firmware?
 
-Not yet. It would be boring to use an existing keyboard firmware framework, so I would like to write one from scratch in Rust.
+Not yet.
 
 # License?
 
@@ -45,6 +45,7 @@ We found the silks to be more accurate and beautiful than those of various PCB m
 
 If you are in doubt about which PCB manufacturer to manufacture, PCBWay, with its experience in manufacturing 🦣, may be a good choice.
 
-![](thankyou_pcbway.jpeg)
+![](photo/thankyou_pcbway1.jpeg) ![](photo/thankyou_pcbway2.jpeg)
+
 
 Thanks a lot PCBWay!
