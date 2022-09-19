@@ -24,7 +24,41 @@ This project is still in its infancy and is only about 20% of the way to the fin
 
 The design currently uses two MCP23017-E/SS. These I/O expanders have long since been depleted from the market due to the recent semiconductor shortage and are currently priced at two to three times the normal price. To protect your wallet, it would be wise to wait for the stock to come back.
 
-## Where's the firmware?
+# BOM
+
+## Main Boards
+
+|Ref|Qty|Value or Part|Description|
+|--|--|--|--|
+||42|1N4148W|Fast Switching Diode|
+||42|CPG151101S11-16|Kailh Switch Socket|
+|U1,U2|2|MCP23017-E/SS|16-Bit I/O Expander|
+||2|BM05B-ACHSS-A-GAN-ETF(LF)(SN)|JST ACH Connector 5P|
+
+## Palm-rest Boards
+
+|Ref|Qty|Value or Part|Description|
+|--|--|--|--|
+||2|BH-411-4P24|AAA Battery Holder|
+||2|BM05B-ACHSS-A-GAN-ETF(LF)(SN)|JST ACH Connector 5P|
+||2|SS-12D00G3|Slide Switch|
+||2|Seeed Studio XIAO nRF52840||
+|L1|2|100μH|Inductor|
+|R1,R2|4|4.6kΩ|Resistor|
+|C1|2|47μF|Capacitor|
+|C2|2|22μF|Capacitor|
+|D1|2|1S4|Schotky barrier diode|
+|HT7733A|2|HT7733A|PFM Step-up DC/DC Converter|
+|TRRS|0|MJ-4PP-9|TRRS Jack (Optional:2)|
+
+## Cables
+
+|Qty|Value or Part|Description|
+|--|--|--|
+|4|ACHR-05V-A-S|JST ACH Connector Housing 5P|
+|10|01SACHSACH-30L-150|JST ACH Connector Contact(SACH-003G-P0.2) Cable|
+
+# Where's the firmware?
 
 Not yet.
 
